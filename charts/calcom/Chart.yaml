@@ -20,5 +20,5 @@ sources:
   - https://github.com/luroden/calcom-helm
 home: https://luroden.github.io/calcom-helm/
 maintainers:
-  - name: Pyrrha
+  - name: luroden
     url: https://github.com/luroden/calcom-helm
