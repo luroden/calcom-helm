@@ -2,8 +2,8 @@ apiVersion: v2
 name: calcom
 description: Deploy Calcom in a Helm Chart
 type: application
-version: 0.8.6
-appVersion: v5.0.19
+version: 0.9.0
+appVersion: v5.4.16
 keywords:
   - kubernetes
   - chart
@@ -17,8 +17,8 @@ keywords:
   - appointment
   - calcom
 sources:
-  - https://github.com/Pyrrha/calcom-helm
-home: https://pyrrha.github.io/calcom-helm/
+  - https://github.com/luroden/calcom-helm
+home: https://luroden.github.io/calcom-helm/
 maintainers:
   - name: Pyrrha
-    url: https://github.com/Pyrrha/calcom-helm
+    url: https://github.com/luroden/calcom-helm

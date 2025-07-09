@@ -14,7 +14,7 @@ This Helm Chart provides a proposal for deploying Cal.com on a Kubernetes cluste
 
 ```sh
 # Add the Helm repository
-helm repo add calcom https://pyrrha.github.io/calcom-helm
+helm repo add calcom https://luroden.github.io/calcom-helm
 
 # Verify the repository
 helm search repo calcom
