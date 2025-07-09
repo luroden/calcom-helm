@@ -2,7 +2,7 @@ apiVersion: v2
 name: calcom-stack
 description: Deploy Calcom chart with a database
 type: application
-version: 0.5.0asdf
+version: 0.5.0-asdf
 appVersion: v5.4.16
 dependencies:
   - name: postgresql
