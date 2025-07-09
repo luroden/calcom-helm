@@ -2,6 +2,34 @@ apiVersion: v1
 entries:
   calcom:
   - apiVersion: v2
+    appVersion: v5.4.16
+    created: "2025-07-09T21:45:38.57745561Z"
+    description: Deploy Calcom in a Helm Chart
+    digest: 71d266d0a7c88744b2b514a8980f09867dfa8b5639930fd82880c6e29a76c34f
+    home: https://luroden.github.io/calcom-helm/
+    keywords:
+    - kubernetes
+    - chart
+    - schedule
+    - conference
+    - calendar
+    - visio
+    - helm
+    - meeting
+    - cal
+    - appointment
+    - calcom
+    maintainers:
+    - name: luroden
+      url: https://github.com/luroden/calcom-helm
+    name: calcom
+    sources:
+    - https://github.com/luroden/calcom-helm
+    type: application
+    urls:
+    - https://github.com/luroden/calcom-helm/releases/download/calcom-0.9.1/calcom-0.9.1.tgz
+    version: 0.9.1
+  - apiVersion: v2
     appVersion: v5.0.19
     created: "2025-05-04T16:20:13.787108306Z"
     description: Deploy Calcom in a Helm Chart
@@ -2072,4 +2100,4 @@ entries:
     urls:
     - https://github.com/Pyrrha/calcom-helm/releases/download/calcom-stack-0.1.0/calcom-stack-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-09T21:44:09.966713714Z"
+generated: "2025-07-09T21:45:38.578027558Z"
